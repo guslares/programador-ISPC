@@ -24,8 +24,7 @@ TEMA: BLOQUE 1
 - Integra **equipos** de  proyectos dedicados al desarrollo de sitios web, sistemas web y móviles
 
 ## ****3. Presentación del modulo****
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/02be7dc8-3a22-430e-a688-899646d4cc00/Untitled.png)
+https://www.notion.so/Ejercicio-Profesional-2022-70913ee237b841b3a10c79276fa6c780#80be146cb1184290b60bd2451825a1bf
 
 - Este módulo articula saberes, contenidos y competencias a partir de uno o varios proyectos.
 - Su aprobación acreditan un **saber hacer.**
@@ -72,8 +71,9 @@ TEMA: BLOQUE 1
 - La entrega de proyectos deberán respetar los plazos de esto dependerá la asignación de calificaciones.
 - En este espacio tambien habra foros.
 - El trabajo por ABP será realizado en pequeños grupos de alumnos.
+
+    https://www.notion.so/Ejercicio-Profesional-2022-70913ee237b841b3a10c79276fa6c780#3506fe62900844f4968d3868dbc4df85
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cdb3da1f-54dd-4366-b07d-27adf72c3e75/Untitled.png)
-    
+       
 
 **Video Clase presentacion [Módulo Ejercicio Profesiona](https://youtu.be/V-HEDblRN_Q)l**

@@ -85,10 +85,8 @@ Video Clase Bloque I [Modulo Ejercicio Profesional Clase 2](https://www.youtube.
 
 ### Resumen Competencias Profesionales
 
-Presentacion
+Presentacion, Entrevistas, Curriculum.
 
-Entrevistas
-
-Curriculum
+![rutaVideo2](https://user-images.githubusercontent.com/95265001/184467591-5aada825-b174-46dc-8fd4-0912389a0412.png)
 
 

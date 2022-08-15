@@ -24,7 +24,9 @@ TEMA: BLOQUE 1
 - Integra **equipos** de  proyectos dedicados al desarrollo de sitios web, sistemas web y móviles
 
 ## ****3. Presentación del modulo****
-https://www.notion.so/Ejercicio-Profesional-2022-70913ee237b841b3a10c79276fa6c780#80be146cb1184290b60bd2451825a1bf
+
+ ![EjProfe01](https://user-images.githubusercontent.com/95265001/184467397-dd2d50eb-0323-48c2-8dd0-26169d972f5a.png)
+
 
 - Este módulo articula saberes, contenidos y competencias a partir de uno o varios proyectos.
 - Su aprobación acreditan un **saber hacer.**
@@ -72,8 +74,19 @@ https://www.notion.so/Ejercicio-Profesional-2022-70913ee237b841b3a10c79276fa6c78
 - En este espacio tambien habra foros.
 - El trabajo por ABP será realizado en pequeños grupos de alumnos.
 
-    https://www.notion.so/Ejercicio-Profesional-2022-70913ee237b841b3a10c79276fa6c780#3506fe62900844f4968d3868dbc4df85
-    
-       
+   ![EjProfe02](https://user-images.githubusercontent.com/95265001/184467422-066ac06d-e90d-462a-9a6a-4bdc0da60753.png)
 
+ 
 **Video Clase presentacion [Módulo Ejercicio Profesiona](https://youtu.be/V-HEDblRN_Q)l**
+
+__________________________________________________________________
+
+Video Clase Bloque I [Modulo Ejercicio Profesional Clase 2](https://www.youtube.com/watch?v=fOIfFXeodF4&ab_channel=PabloFigueroa)
+
+### Resumen Competencias Profesionales
+
+Presentacion, Entrevistas, Curriculum.
+
+![rutaVideo2](https://user-images.githubusercontent.com/95265001/184467591-5aada825-b174-46dc-8fd4-0912389a0412.png)
+
+
